@@ -1,0 +1,3 @@
+.idea
+./gamemanagerBack/db.sqlite3
+.env
